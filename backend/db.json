@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Julio Olveira",
+      "email": "julio@liferay.com"
+    },
+    {
+      "name": "Ana",
+      "email": "ana@liferay.com",
+      "id": 3
+    },
+    {
+      "name": "Roselaine Marques",
+      "email": "roselaine.marques@liferay.com",
+      "id": 4
+    }
+  ]
+}
