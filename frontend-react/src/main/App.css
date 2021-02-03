@@ -17,6 +17,11 @@
 
 }
 
+@font-face{
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf');
+  }
+
 *{
     box-sizing: border-box;
     font-family: 'Montserrat';
